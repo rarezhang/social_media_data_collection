@@ -1,6 +1,6 @@
 """
 test version
-Brand Advertising
+
 """
 from urllib.request import urlopen
 import tweepy, re, json
